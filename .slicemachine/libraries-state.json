@@ -177,7 +177,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/CategoryPreviewWithImageBackgrounds/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/CategoryPreviewWithImageBackgrounds/default-slice/preview.png",
+            "width": 1168,
+            "height": 784
           }
         }
       },
@@ -356,11 +358,15 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/HeroBanner/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/HeroBanner/default-slice/preview.png",
+            "width": 1168,
+            "height": 482
           },
           "withoutCta": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/HeroBanner/withoutCta/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/HeroBanner/withoutCta/preview.png",
+            "width": 1168,
+            "height": 400
           }
         }
       },
@@ -496,7 +502,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/PromoSectionFadingBackgroundTestimonials/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/PromoSectionFadingBackgroundTestimonials/default-slice/preview.png",
+            "width": 1168,
+            "height": 812
           }
         }
       },
@@ -696,7 +704,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/PromoSectionFullWidthWithOverlappingImageTiles/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/PromoSectionFullWidthWithOverlappingImageTiles/default-slice/preview.png",
+            "width": 1168,
+            "height": 488
           }
         }
       },
@@ -809,7 +819,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/PromoSectionWithBackgroundImage/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/ecommerce/PromoSectionWithBackgroundImage/default-slice/preview.png",
+            "width": 1168,
+            "height": 730
           }
         }
       }
@@ -1046,7 +1058,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/BlogSectionThreeColumnCards/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/BlogSectionThreeColumnCards/default-slice/preview.png",
+            "width": 1168,
+            "height": 736
           }
         }
       },
@@ -1132,7 +1146,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/ContentSectionCentered/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/ContentSectionCentered/default-slice/preview.png",
+            "width": 1168,
+            "height": 600
           }
         }
       },
@@ -1197,7 +1213,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/marketing/ContentSectionCenteredEmbed/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/marketing/ContentSectionCenteredEmbed/default-slice/preview.png",
+            "width": 1510,
+            "height": 740
           }
         }
       },
@@ -1275,7 +1293,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/ContentSectionCenteredImage/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/ContentSectionCenteredImage/default-slice/preview.png",
+            "width": 1168,
+            "height": 454
           }
         }
       },
@@ -1407,7 +1427,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/ContentSectionTwoColumnsWithImage/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/ContentSectionTwoColumnsWithImage/default-slice/preview.png",
+            "width": 1168,
+            "height": 602
           }
         }
       },
@@ -1481,7 +1503,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/FeaturedSectionCentered22/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/FeaturedSectionCentered22/default-slice/preview.png",
+            "width": 1168,
+            "height": 500
           }
         }
       },
@@ -1632,7 +1656,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/HeroSectionSplit/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/HeroSectionSplit/default-slice/preview.png",
+            "width": 1168,
+            "height": 782
           }
         }
       },
@@ -1675,7 +1701,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/marketing/Separator/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/marketing/Separator/default-slice/preview.png",
+            "width": 1600,
+            "height": 256
           }
         }
       },
@@ -1749,7 +1777,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/StatsSectionSplitWithImage/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/.slicemachine/assets/slices/marketing/StatsSectionSplitWithImage/default-slice/preview.png",
+            "width": 1168,
+            "height": 508
           }
         }
       }
@@ -1845,7 +1875,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/navigation/FooterColumn/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/navigation/FooterColumn/default-slice/preview.png",
+            "width": 442,
+            "height": 356
           }
         }
       },
@@ -1918,7 +1950,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/navigation/MenuSimple/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/navigation/MenuSimple/default-slice/preview.png",
+            "width": 212,
+            "height": 122
           }
         }
       },
@@ -2160,7 +2194,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/navigation/MenuWithIcons/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/navigation/MenuWithIcons/default-slice/preview.png",
+            "width": 868,
+            "height": 542
           }
         }
       },
@@ -2309,7 +2345,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/navigation/MenuWithoutIcon/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/navigation/MenuWithoutIcon/default-slice/preview.png",
+            "width": 674,
+            "height": 380
           }
         }
       },
@@ -2419,7 +2457,9 @@
         "screenshotPaths": {
           "default-slice": {
             "exists": true,
-            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/navigation/SubCategory/default-slice/preview.png"
+            "path": "/Users/arnaudlewis/development/workspace/sm-test-library/slices/navigation/SubCategory/default-slice/preview.png",
+            "width": 308,
+            "height": 302
           }
         }
       }
