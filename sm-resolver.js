@@ -1,7 +1,7 @@
-import * as Slices_ecommerce from './slices/ecommerce'
-import * as Slices_marketing from './slices/marketing'
-import * as Slices_navigation from './slices/navigation'
-import * as Slices from './slices'
+import * as Slices_ecommerce from './src/slices/ecommerce'
+import * as Slices_marketing from './src/slices/marketing'
+import * as Slices_navigation from './src/slices/navigation'
+import * as Slices from './src/slices'
 
 const __allSlices = {  ...Slices, ...Slices_navigation, ...Slices_marketing, ...Slices_ecommerce, }
 
@@ -34,4 +34,3 @@ export default function SliceResolver({ sliceName, ...rest }) {
 	return __allSlices[sliceName] ? __allSlices[sliceName] : () => <NotFound sliceName={sliceName} {...rest} />
 }
 
-  
