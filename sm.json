@@ -1,9 +1,6 @@
 {
   "apiEndpoint": "https://demo-sm-next-ecom.cdn.prismic.io/api/v2",
   "libraries": [
-    "@/src/slices/ecommerce",
-    "@/src/slices/marketing",
-    "@/src/slices/navigation",
     "@/src/slices"
   ],
   "_latest": "0.1.0",
